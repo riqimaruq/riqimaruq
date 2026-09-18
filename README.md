@@ -18,67 +18,83 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
 
 <table>
   <tr>
-    <td><strong>Cloud</strong></td>
-    <td>
-      <span style="margin-right: 12px;"><img src="images/aws.svg" width="20" height="20"/> AWS</span>
-      <span style="margin-right: 12px;"><img src="images/azure.svg" width="20" height="20"/> Azure</span>
-      <span style="margin-right: 12px;"><img src="images/googlecloud.svg" width="20" height="20"/> GCP</span>
-      <span style="margin-right: 12px;"><img src="images/alibabacloud.svg" width="20" height="20"/> Alibaba Cloud</span>
+    <td style="vertical-align: top;"><strong>Cloud</strong></td>
+    <td style="vertical-align: top;">
+      <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
+        <div style="white-space: nowrap;"><img src="images/aws.svg" width="20" height="20"/> AWS</div>
+        <div style="white-space: nowrap;"><img src="images/azure.svg" width="20" height="20"/> Azure</div>
+        <div style="white-space: nowrap;"><img src="images/googlecloud.svg" width="20" height="20"/> GCP</div>
+        <div style="white-space: nowrap;"><img src="images/alibabacloud.svg" width="20" height="20"/> Alibaba Cloud</div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td><strong>CI/CD</strong></td>
-    <td>
-      <span style="margin-right: 12px;"><img src="images/jenkins.svg" width="20" height="20"/> Jenkins</span>
-      <span style="margin-right: 12px;"><img src="images/argo.svg" width="20" height="20"/> Argo CD</span>
+    <td style="vertical-align: top;"><strong>CI/CD</strong></td>
+    <td style="vertical-align: top;">
+      <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
+        <div style="white-space: nowrap;"><img src="images/jenkins.svg" width="20" height="20"/> Jenkins</div>
+        <div style="white-space: nowrap;"><img src="images/argo.svg" width="20" height="20"/> Argo CD</div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td><strong>Infrastructure as Code</strong></td>
-    <td>
-      <span style="margin-right: 12px;"><img src="images/terraform.svg" width="20" height="20"/> Terraform</span>
-      <span style="margin-right: 12px;"><img src="images/ansible.svg" width="20" height="20"/> Ansible</span>
+    <td style="vertical-align: top;"><strong>Infrastructure as Code</strong></td>
+    <td style="vertical-align: top;">
+      <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
+        <div style="white-space: nowrap;"><img src="images/terraform.svg" width="20" height="20"/> Terraform</div>
+        <div style="white-space: nowrap;"><img src="images/ansible.svg" width="20" height="20"/> Ansible</div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td><strong>Containers</strong></td>
-    <td>
-      <span style="margin-right: 12px;"><img src="images/kubernetes.svg" width="20" height="20"/> Kubernetes</span>
-      <span style="margin-right: 12px;"><img src="images/docker.svg" width="20" height="20"/> Docker</span>
+    <td style="vertical-align: top;"><strong>Containers</strong></td>
+    <td style="vertical-align: top;">
+      <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
+        <div style="white-space: nowrap;"><img src="images/kubernetes.svg" width="20" height="20"/> Kubernetes</div>
+        <div style="white-space: nowrap;"><img src="images/docker.svg" width="20" height="20"/> Docker</div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td><strong>Security</strong></td>
-    <td>
-      <span style="margin-right: 12px;">Wazuh SIEM</span>
-      <span style="margin-right: 12px;">Palo Alto Cortex XDR</span>
-      <span style="margin-right: 12px;"><img src="images/cloudflare.svg" width="20" height="20"/> Cloudflare</span>
-      <span style="margin-right: 12px;">Bearer Scan</span>
-      <span style="margin-right: 12px;">Dependency-Track</span>
-      <span style="margin-right: 12px;"><img src="images/sonarqube.svg" width="20" height="20"/> SonarQube</span>
+    <td style="vertical-align: top;"><strong>Security</strong></td>
+    <td style="vertical-align: top;">
+      <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
+        <div style="white-space: nowrap;">Wazuh SIEM</div>
+        <div style="white-space: nowrap;">Palo Alto Cortex XDR</div>
+        <div style="white-space: nowrap;"><img src="images/cloudflare.svg" width="20" height="20"/> Cloudflare</div>
+        <div style="white-space: nowrap;">Bearer Scan</div>
+        <div style="white-space: nowrap;">Dependency-Track</div>
+        <div style="white-space: nowrap;"><img src="images/sonarqube.svg" width="20" height="20"/> SonarQube</div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td><strong>Monitoring</strong></td>
-    <td>
-      <span style="margin-right: 12px;"><img src="images/prometheus.svg" width="20" height="20"/> Prometheus</span>
-      <span style="margin-right: 12px;"><img src="images/grafana.svg" width="20" height="20"/> Grafana</span>
-      <span style="margin-right: 12px;"><img src="images/elasticsearch.svg" width="20" height="20"/> Elasticsearch</span>
-      <span style="margin-right: 12px;">Loki</span>
+    <td style="vertical-align: top;"><strong>Monitoring</strong></td>
+    <td style="vertical-align: top;">
+      <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
+        <div style="white-space: nowrap;"><img src="images/prometheus.svg" width="20" height="20"/> Prometheus</div>
+        <div style="white-space: nowrap;"><img src="images/grafana.svg" width="20" height="20"/> Grafana</div>
+        <div style="white-space: nowrap;"><img src="images/elasticsearch.svg" width="20" height="20"/> Elasticsearch</div>
+        <div style="white-space: nowrap;">Loki</div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td><strong>Version Control</strong></td>
-    <td>
-      <span style="margin-right: 12px;"><img src="images/git.svg" width="20" height="20"/> Git</span>
-      <span style="margin-right: 12px;"><img src="images/github.svg" width="20" height="20"/> GitHub</span>
-      <span style="margin-right: 12px;"><img src="images/gitlab.svg" width="20" height="20"/> GitLab</span>
+    <td style="vertical-align: top;"><strong>Version Control</strong></td>
+    <td style="vertical-align: top;">
+      <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
+        <div style="white-space: nowrap;"><img src="images/git.svg" width="20" height="20"/> Git</div>
+        <div style="white-space: nowrap;"><img src="images/github.svg" width="20" height="20"/> GitHub</div>
+        <div style="white-space: nowrap;"><img src="images/gitlab.svg" width="20" height="20"/> GitLab</div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td><strong>Scripting</strong></td>
-    <td>
-      <span style="margin-right: 12px;"><img src="images/bash.svg" width="20" height="20"/> Bash</span>
+    <td style="vertical-align: top;"><strong>Scripting</strong></td>
+    <td style="vertical-align: top;">
+      <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
+        <div style="white-space: nowrap;"><img src="images/bash.svg" width="20" height="20"/> Bash</div>
+      </div>
     </td>
   </tr>
 </table>
