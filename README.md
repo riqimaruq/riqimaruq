@@ -18,14 +18,14 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
 
 | Category | Tools & Technologies |
 |----------|---------------------|
-| **Cloud** | AWS, Azure, GCP, Alibaba Cloud |
-| **Languages** | Python, Bash, Go |
-| **CI/CD** | Jenkins, ArgoCD |
-| **Infrastructure as Code** | Terraform, Ansible |
-| **Containers** | Kubernetes, Docker |
-| **Security** | Wazuh SIEM, Palo Alto Cortex XDR, Cloudflare WAF, Bearer Scan |
-| **Monitoring** | Prometheus, Grafana, ELK Stack, Loki |
-| **Version Control** | Git, GitHub, GitLab |
+| **Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/microsoftazure/microsoftazure-original-wordmark.svg" width="40" title="Azure"/> <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="GCP"/> <img src="https://www.alibabacloud.com/favicons/favicon.ico" width="40" title="Alibaba Cloud"/> |
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/python/python-original.svg" width="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/> <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/go/go-original.svg" width="40" title="Go"/> |
+| **CI/CD** | <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins"/> <img src="https://www.vectorlogo.zone/logos/argoproject/argoproject-vertical-color.svg" width="40" title="ArgoCD"/> |
+| **Infrastructure as Code** | <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/> <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/ansible/ansible-original.svg" width="40" title="Ansible"/> |
+| **Containers** | <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/kubernetes/kubernetes-original.svg" width="40" title="Kubernetes"/> <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> |
+| **Security** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wazuh-logo.svg/1200px-Wazuh-logo.svg.png" width="40" title="Wazuh"/> <img src="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/2022/pan-logo-blue.png" width="40" title="Palo Alto"/> <img src="https://www.cloudflare.com/img/logo-logo-dark.svg" width="40" title="Cloudflare"/> |
+| **Monitoring** | <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus"/> <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana"/> <img src="https://static-www.elastic.co/www/assets/datagif/elastic-logo-2025.svg" width="40" title="ELK"/> |
+| **Version Control** | <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/git/git-original.svg" width="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/github/github-original.svg" width="40" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab"/> |
 
 🌟 **Professional Highlights:**
 - Led cloud security control orchestration across Alibaba Cloud and AWS environments at PT Uangme Fintek Indonesia
