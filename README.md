@@ -18,14 +18,14 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
 
 | Category | Tools & Technologies |
 |----------|---------------------|
-| **Cloud** | AWS • Azure • GCP • Alibaba Cloud |
-| **Languages** | Python • Bash • Go |
-| **CI/CD** | Jenkins • ArgoCD |
-| **Infrastructure as Code** | Terraform • Ansible |
-| **Containers** | Kubernetes • Docker |
-| **Security** | Wazuh SIEM • Palo Alto Cortex XDR • Cloudflare WAF • Bearer Scan • Dependency-Track • SonarQube |
-| **Monitoring** | Prometheus • Grafana • ELK Stack • Loki |
-| **Version Control** | Git • GitHub • GitLab |
+| **☁️ Cloud** | AWS • Azure • GCP • Alibaba Cloud |
+| **💻 Languages** | Python • Bash • Go |
+| **🔄 CI/CD** | Jenkins • ArgoCD |
+| **📝 Infrastructure as Code** | Terraform • Ansible |
+| **📦 Containers** | Kubernetes • Docker |
+| **🛡️ Security** | Wazuh SIEM • Palo Alto Cortex XDR • Cloudflare WAF • Bearer Scan • Dependency-Track • SonarQube |
+| **📊 Monitoring** | Prometheus • Grafana • ELK Stack • Loki |
+| **🔧 Version Control** | Git • GitHub • GitLab |
 
 🌟 **Professional Highlights:**
 - Led cloud security control orchestration across Alibaba Cloud and AWS environments at PT Uangme Fintek Indonesia
@@ -45,7 +45,8 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
 - 📧 Email: [viqiagung@gmail.com](mailto:viqiagung@gmail.com)
 - 💼 LinkedIn: [viqi-agung-saputra](https://linkedin.com/in/viqi-agung-saputra-ba2469142)
 - 💻 GitHub: [@riqimaruq](https://github.com/riqimaruq)
+- 🌐 Portfolio: https://riqimaruq.github.io/portofolio/
 
 ---
 
-Feel free to look at my portfolio website: https://riqimaruq.github.io/portofolio/
+> DevSecOps • Cloud Security • SRE • Automation • Monitoring
