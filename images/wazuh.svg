@@ -2,4 +2,5 @@
   <path fill="#0066cc" d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"/>
   <circle cx="50" cy="50" r="20" fill="white"/>
   <path fill="#0066cc" d="M42 42 h16 v16 h-16 Z"/>
+  <text x="50" y="85" font-family="Arial" font-size="8" fill="#0066cc" text-anchor="middle">Wazuh</text>
 </svg>
