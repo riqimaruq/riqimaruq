@@ -20,49 +20,49 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
   <tr>
     <td><strong>Cloud</strong></td>
     <td>
-      <img src="images/aws.svg" width="20" height="20" /> <img src="images/azure.svg" width="20" height="20" /> <img src="images/googlecloud.svg" width="20" height="20" /> <img src="images/alibabacloud.svg" width="20" height="20" />
+      <img src="images/aws.svg" width="20" height="20"/> <img src="images/azure.svg" width="20" height="20"/> <img src="images/googlecloud.svg" width="20" height="20"/> <img src="images/alibabacloud.svg" width="20" height="20"/>
     </td>
   </tr>
   <tr>
     <td><strong>CI/CD</strong></td>
     <td>
-      <img src="images/jenkins.svg" width="20" height="20" /> <img src="images/argo.svg" width="20" height="20" />
+      <img src="images/jenkins.svg" width="20" height="20"/> <img src="images/argo.svg" width="20" height="20"/>
     </td>
   </tr>
   <tr>
     <td><strong>Infrastructure as Code</strong></td>
     <td>
-      <img src="images/terraform.svg" width="20" height="20" /> <img src="images/ansible.svg" width="20" height="20" />
+      <img src="images/terraform.svg" width="20" height="20"/> <img src="images/ansible.svg" width="20" height="20"/>
     </td>
   </tr>
   <tr>
     <td><strong>Containers</strong></td>
     <td>
-      <img src="images/kubernetes.svg" width="20" height="20" /> <img src="images/docker.svg" width="20" height="20" />
+      <img src="images/kubernetes.svg" width="20" height="20"/> <img src="images/docker.svg" width="20" height="20"/>
     </td>
   </tr>
   <tr>
     <td><strong>Security</strong></td>
     <td>
-      Wazuh SIEM • Palo Alto Cortex XDR • <img src="images/cloudflare.svg" width="20" height="20" /> • Bearer Scan • Dependency-Track • <img src="images/sonarqube.svg" width="20" height="20" />
+      Wazuh SIEM • Palo Alto Cortex XDR • <img src="images/cloudflare.svg" width="20" height="20"/> • Bearer Scan • Dependency-Track • <img src="images/sonarqube.svg" width="20" height="20"/>
     </td>
   </tr>
   <tr>
     <td><strong>Monitoring</strong></td>
     <td>
-      <img src="images/prometheus.svg" width="20" height="20" /> <img src="images/grafana.svg" width="20" height="20" /> <img src="images/elasticsearch.svg" width="20" height="20" /> • Loki
+      <img src="images/prometheus.svg" width="20" height="20"/> <img src="images/grafana.svg" width="20" height="20"/> <img src="images/elasticsearch.svg" width="20" height="20"/> • Loki
     </td>
   </tr>
   <tr>
     <td><strong>Version Control</strong></td>
     <td>
-      <img src="images/git.svg" width="20" height="20" /> <img src="images/github.svg" width="20" height="20" /> <img src="images/gitlab.svg" width="20" height="20" />
+      <img src="images/git.svg" width="20" height="20"/> <img src="images/github.svg" width="20" height="20"/> <img src="images/gitlab.svg" width="20" height="20"/>
     </td>
   </tr>
   <tr>
     <td><strong>Scripting</strong></td>
     <td>
-      <img src="images/gnubash.svg" width="20" height="20" />
+      <img src="images/bash.svg" width="20" height="20"/>
     </td>
   </tr>
 </table>
