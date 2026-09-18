@@ -20,65 +20,65 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
   <tr>
     <td><strong>Cloud</strong></td>
     <td>
-      <img src="images/aws.svg" width="20" height="20"/> AWS
-      <img src="images/azure.svg" width="20" height="20"/> Azure
-      <img src="images/googlecloud.svg" width="20" height="20"/> GCP
-      <img src="images/alibabacloud.svg" width="20" height="20"/> Alibaba Cloud
+      <span style="margin-right: 12px;"><img src="images/aws.svg" width="20" height="20"/> AWS</span>
+      <span style="margin-right: 12px;"><img src="images/azure.svg" width="20" height="20"/> Azure</span>
+      <span style="margin-right: 12px;"><img src="images/googlecloud.svg" width="20" height="20"/> GCP</span>
+      <span style="margin-right: 12px;"><img src="images/alibabacloud.svg" width="20" height="20"/> Alibaba Cloud</span>
     </td>
   </tr>
   <tr>
     <td><strong>CI/CD</strong></td>
     <td>
-      <img src="images/jenkins.svg" width="20" height="20"/> Jenkins
-      <img src="images/argo.svg" width="20" height="20"/> Argo CD
+      <span style="margin-right: 12px;"><img src="images/jenkins.svg" width="20" height="20"/> Jenkins</span>
+      <span style="margin-right: 12px;"><img src="images/argo.svg" width="20" height="20"/> Argo CD</span>
     </td>
   </tr>
   <tr>
     <td><strong>Infrastructure as Code</strong></td>
     <td>
-      <img src="images/terraform.svg" width="20" height="20"/> Terraform
-      <img src="images/ansible.svg" width="20" height="20"/> Ansible
+      <span style="margin-right: 12px;"><img src="images/terraform.svg" width="20" height="20"/> Terraform</span>
+      <span style="margin-right: 12px;"><img src="images/ansible.svg" width="20" height="20"/> Ansible</span>
     </td>
   </tr>
   <tr>
     <td><strong>Containers</strong></td>
     <td>
-      <img src="images/kubernetes.svg" width="20" height="20"/> Kubernetes
-      <img src="images/docker.svg" width="20" height="20"/> Docker
+      <span style="margin-right: 12px;"><img src="images/kubernetes.svg" width="20" height="20"/> Kubernetes</span>
+      <span style="margin-right: 12px;"><img src="images/docker.svg" width="20" height="20"/> Docker</span>
     </td>
   </tr>
   <tr>
     <td><strong>Security</strong></td>
     <td>
-      Wazuh SIEM
-      Palo Alto Cortex XDR
-      <img src="images/cloudflare.svg" width="20" height="20"/> Cloudflare
-      Bearer Scan
-      Dependency-Track
-      <img src="images/sonarqube.svg" width="20" height="20"/> SonarQube
+      <span style="margin-right: 12px;">Wazuh SIEM</span>
+      <span style="margin-right: 12px;">Palo Alto Cortex XDR</span>
+      <span style="margin-right: 12px;"><img src="images/cloudflare.svg" width="20" height="20"/> Cloudflare</span>
+      <span style="margin-right: 12px;">Bearer Scan</span>
+      <span style="margin-right: 12px;">Dependency-Track</span>
+      <span style="margin-right: 12px;"><img src="images/sonarqube.svg" width="20" height="20"/> SonarQube</span>
     </td>
   </tr>
   <tr>
     <td><strong>Monitoring</strong></td>
     <td>
-      <img src="images/prometheus.svg" width="20" height="20"/> Prometheus
-      <img src="images/grafana.svg" width="20" height="20"/> Grafana
-      <img src="images/elasticsearch.svg" width="20" height="20"/> Elasticsearch
-      Loki
+      <span style="margin-right: 12px;"><img src="images/prometheus.svg" width="20" height="20"/> Prometheus</span>
+      <span style="margin-right: 12px;"><img src="images/grafana.svg" width="20" height="20"/> Grafana</span>
+      <span style="margin-right: 12px;"><img src="images/elasticsearch.svg" width="20" height="20"/> Elasticsearch</span>
+      <span style="margin-right: 12px;">Loki</span>
     </td>
   </tr>
   <tr>
     <td><strong>Version Control</strong></td>
     <td>
-      <img src="images/git.svg" width="20" height="20"/> Git
-      <img src="images/github.svg" width="20" height="20"/> GitHub
-      <img src="images/gitlab.svg" width="20" height="20"/> GitLab
+      <span style="margin-right: 12px;"><img src="images/git.svg" width="20" height="20"/> Git</span>
+      <span style="margin-right: 12px;"><img src="images/github.svg" width="20" height="20"/> GitHub</span>
+      <span style="margin-right: 12px;"><img src="images/gitlab.svg" width="20" height="20"/> GitLab</span>
     </td>
   </tr>
   <tr>
     <td><strong>Scripting</strong></td>
     <td>
-      <img src="images/bash.svg" width="20" height="20"/> Bash
+      <span style="margin-right: 12px;"><img src="images/bash.svg" width="20" height="20"/> Bash</span>
     </td>
   </tr>
 </table>
