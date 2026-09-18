@@ -59,11 +59,11 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
     <td style="vertical-align: top;"><strong>Security</strong></td>
     <td style="vertical-align: top;">
       <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
-        <div style="white-space: nowrap;">Wazuh SIEM</div>
-        <div style="white-space: nowrap;">Palo Alto Cortex XDR</div>
+        <div style="white-space: nowrap;"><img src="images/wazuh.svg" width="20" height="20"/> Wazuh SIEM</div>
+        <div style="white-space: nowrap;"><img src="images/palo.svg" width="20" height="20"/> Palo Alto Cortex XDR</div>
         <div style="white-space: nowrap;"><img src="images/cloudflare.svg" width="20" height="20"/> Cloudflare</div>
-        <div style="white-space: nowrap;">Bearer Scan</div>
-        <div style="white-space: nowrap;">Dependency-Track</div>
+        <div style="white-space: nowrap;"><img src="images/bearer.svg" width="20" height="20"/> Bearer Scan</div>
+        <div style="white-space: nowrap;"><img src="images/dependency-track.svg" width="20" height="20"/> Dependency-Track</div>
         <div style="white-space: nowrap;"><img src="images/sonarqube.svg" width="20" height="20"/> SonarQube</div>
       </div>
     </td>
@@ -75,7 +75,6 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
         <div style="white-space: nowrap;"><img src="images/prometheus.svg" width="20" height="20"/> Prometheus</div>
         <div style="white-space: nowrap;"><img src="images/grafana.svg" width="20" height="20"/> Grafana</div>
         <div style="white-space: nowrap;"><img src="images/elasticsearch.svg" width="20" height="20"/> Elasticsearch</div>
-        <div style="white-space: nowrap;">Loki</div>
       </div>
     </td>
   </tr>
