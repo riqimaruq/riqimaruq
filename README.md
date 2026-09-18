@@ -16,16 +16,16 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
 
 🚀 **Skills & Tools:**
 
-| Category | Tools & Technologies |
-|----------|---------------------|
-| **☁️ Cloud** | AWS • Azure • GCP • Alibaba Cloud |
-| **💻 Languages** | Python • Bash • Go |
-| **🔄 CI/CD** | Jenkins • ArgoCD |
-| **📝 Infrastructure as Code** | Terraform • Ansible |
-| **📦 Containers** | Kubernetes • Docker |
-| **🛡️ Security** | Wazuh SIEM • Palo Alto Cortex XDR • Cloudflare WAF • Bearer Scan • Dependency-Track • SonarQube |
-| **📊 Monitoring** | Prometheus • Grafana • ELK Stack • Loki |
-| **🔧 Version Control** | Git • GitHub • GitLab |
+| Category | Tools |
+|----------|----------------------|
+| **Cloud** | AWS • Azure • GCP • Alibaba Cloud |
+| **CI/CD** | Jenkins • ArgoCD |
+| **Infrastructure as Code** | Terraform • Ansible |
+| **Containers** | Kubernetes • Docker |
+| **Security** | Wazuh SIEM • Palo Alto Cortex XDR • Cloudflare WAF • Bearer Scan • Dependency-Track • SonarQube |
+| **Monitoring** | Prometheus • Grafana • ELK Stack • Loki |
+| **Version Control** | Git • GitHub • GitLab |
+| **Scripting** | Bash |
 
 🌟 **Professional Highlights:**
 - Led cloud security control orchestration across Alibaba Cloud and AWS environments at PT Uangme Fintek Indonesia
