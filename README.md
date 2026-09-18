@@ -60,7 +60,7 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
     <td style="vertical-align: top;">
       <div style="display: flex; flex-wrap: wrap; gap: 16px; padding: 4px 0;">
         <div style="white-space: nowrap;"><img src="images/wazuh.png" width="20" height="20"/> Wazuh SIEM</div>
-        <div style="white-space: nowrap;"><img src="images/palo.svg" width="20" height="20"/> Palo Alto Cortex XDR</div>
+        <div style="white-space: nowrap;"><img src="images/palo.png" width="20" height="20"/> Palo Alto Cortex XDR</div>
         <div style="white-space: nowrap;"><img src="images/cloudflare.svg" width="20" height="20"/> Cloudflare</div>
         <div style="white-space: nowrap;"><img src="https://avatars.githubusercontent.com/u/36886676?s=200&v=4" width="20" height="20"/> Bearer Scan</div>
         <div style="white-space: nowrap;"><img src="images/dependency-track.svg" width="20" height="20"/> Dependency-Track</div>
