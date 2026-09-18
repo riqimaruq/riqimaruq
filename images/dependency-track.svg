@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <path fill="#007acc" d="M50 5 L85 30 L85 70 L50 95 L15 70 L15 30 Z"/>
-  <circle cx="50" cy="50" r="15" fill="white"/>
-  <path fill="#007acc" d="M40 40 h20 v20 h-20 Z"/>
-  <text x="50" y="85" font-family="Arial" font-size="7" fill="#007acc" text-anchor="middle">Dependency-Track</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 50">
+  <path fill="#007acc" d="M50 5 L85 25 L85 45 L50 50 L15 45 L15 25 Z"/>
+  <circle cx="50" cy="25" r="8" fill="white"/>
+  <circle cx="50" cy="25" r="4" fill="#007acc"/>
 </svg>
