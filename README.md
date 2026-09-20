@@ -116,7 +116,7 @@ I'm a seasoned DevSecOps and Cloud Security Professional with over 10 years of e
 - 📧 Email: [viqiagung@gmail.com](mailto:viqiagung@gmail.com)
 - 💼 LinkedIn: [viqi-agung-saputra](https://linkedin.com/in/viqi-agung-saputra-ba2469142)
 - 💻 GitHub: [@riqimaruq](https://github.com/riqimaruq)
-- 🌐 Portfolio: https://riqimaruq.github.io/portofolio/
+- 🌐 Portfolio: https://riqimaruq.tech
 
 ---
 > DevSecOps • Cloud Security • SRE • Automation • Monitoring
